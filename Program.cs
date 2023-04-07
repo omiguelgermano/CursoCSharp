@@ -71,6 +71,7 @@ namespace CursoCSharp {
                 // OOP
                 {"Herança - Orientação a Objetos", Heranca.Executar },
                 {"Construtor usando o This - Orientação a Objetos", ConstrutorThis.Executar },
+                {"Encapsulamento - Orientação a Objetos", OO.Encapsulamento.Executar },
             });
 
             central.SelecionarEExecutar();
