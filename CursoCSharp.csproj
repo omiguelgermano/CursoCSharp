@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Encapssulamento\Encapssulamento.csproj" />
+    <ProjectReference Include="..\EncapsulamentoNew\EncapsulamentoNew.csproj" />
   </ItemGroup>
 
 </Project>
